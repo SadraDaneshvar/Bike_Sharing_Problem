@@ -21,3 +21,6 @@ In this repository, you will find two meticulously documented Jupyter notebooks,
 The second notebook delves into the bike allocation optimization process (Phase 2), where the mathematical model developed for optimal bike distribution is thoroughly explained and implemented. This notebook not only presents the optimization techniques and solutions but also offers a holistic analysis of the results, demonstrating the practical implications of the model on bike-sharing operations. The detailed documentation within this notebook makes the complex optimization process accessible, facilitating a deep understanding of the strategic allocation of bikes.
 
 For a complete insight into the results, methodologies, and analytical processes underpinning this project, we highly encourage you to explore these notebooks. They serve as a comprehensive resource, elucidating every facet of the project with a depth that ensures both transparency and transferability of knowledge. 
+
+## License
+[MIT LICENSE](LICENSE)
